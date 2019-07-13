@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ipaddresstable" max_length="40" name="x_332142_web_servi_ipaddresstable" type="collection">
+        <element label="city" max_length="40" name="city" type="string"/>
+        <element label="country" max_length="40" name="country" type="string"/>
+        <element label="IP" max_length="40" name="ip" type="string"/>
+        <element label="state" max_length="40" name="state" type="string"/>
+    </element>
+</database>
